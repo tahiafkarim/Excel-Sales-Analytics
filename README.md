@@ -38,7 +38,7 @@ Key highlights:
 
 ## Tools & Skills Demonstrated
 
-- **Microsoft Excel**
+- **Microsoft Excel**: Core platform for all reports
 - Pivot Tables: Report Design
 - Power Pivot: Data modelling and relationship building across tables
 - DAX Measures: Custom calculated fields for YoY growth and target variance
